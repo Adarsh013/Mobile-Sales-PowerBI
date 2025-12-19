@@ -31,7 +31,7 @@ It helps **business stakeholders, sales managers, and analysts** make **data-dri
 - **Power Query** – Data transformation & cleaning
 - **DAX (Data Analysis Expressions)** – Measures & calculations
 - **Bing Maps / OpenStreetMap** – Geographical analysis
-- **Excel / CSV** – Source dataset
+- **Excel / CSV** – Excel
 
 ---
 
