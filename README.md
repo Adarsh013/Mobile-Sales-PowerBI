@@ -7,7 +7,7 @@ Interactive Power BI dashboard analyzing mobile sales across India with insights
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 This project is an **interactive Power BI dashboard** designed to analyze and visualize **mobile phone sales data across India**.  
 The dashboard provides deep insights into **sales performance, customer behavior, payment preferences, brand performance, and time-based trends**.
 
@@ -15,7 +15,7 @@ It helps **business stakeholders, sales managers, and analysts** make **data-dri
 
 ---
 
-## 🎯 Objectives of the Project
+##  Objectives of the Project
 - Analyze **overall mobile sales performance**
 - Identify **top-performing brands and mobile models**
 - Understand **city-wise sales distribution**
@@ -26,7 +26,7 @@ It helps **business stakeholders, sales managers, and analysts** make **data-dri
 
 ---
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 - **Power BI Desktop**
 - **Power Query** – Data transformation & cleaning
 - **DAX (Data Analysis Expressions)** – Measures & calculations
@@ -35,7 +35,7 @@ It helps **business stakeholders, sales managers, and analysts** make **data-dri
 
 ---
 
-## 📂 Dataset Description
+## Dataset Description
 The dataset contains the following attributes:
 
 - Brand Name  
@@ -51,7 +51,7 @@ The dataset contains the following attributes:
 
 ---
 
-## 📈 Key KPIs
+## Key KPIs
 - **Total Sales:** 769M  
 - **Total Transactions:** 19K  
 - **Total Quantity Sold:** 4K  
@@ -61,7 +61,7 @@ These KPIs dynamically update based on slicer selections.
 
 ---
 
-## 🎛 Interactive Filters
+## Interactive Filters
 - Brand  
 - Mobile Model  
 - Payment Method  
@@ -70,29 +70,28 @@ These KPIs dynamically update based on slicer selections.
 
 ---
 
-## 🌍 Dashboard Visuals Explained
+## Dashboard Visuals Explained
 
-### 📍 Total Sales by City (Map)
+# Total Sales by City (Map)
 - Shows **city-wise sales across India**
 - Bubble size represents **sales volume**
 - Identifies high-performing cities like Mumbai, Delhi, Bangalore, and Hyderabad
 
 ---
 
-### 📈 Total Quantity by Month (Line Chart)
+### Total Quantity by Month (Line Chart)
 - Displays **monthly quantity trend**
 - Helps identify **seasonal demand patterns**
 
----
 
-### ⭐ Customer Ratings (Funnel Chart)
+### Customer Ratings (Funnel Chart)
 - Distribution of ratings from **1 to 5**
 - Majority of customers provided **4–5 star ratings**
 - Indicates strong customer satisfaction
 
----
 
-### 💳 Transactions by Payment Method (Pie Chart)
+
+###  Transactions by Payment Method (Pie Chart)
 - UPI  
 - Debit Card  
 - Credit Card  
@@ -100,9 +99,9 @@ These KPIs dynamically update based on slicer selections.
 
 Shows dominance of **digital payment methods**.
 
----
 
-### 🏷 Brand Performance (Table)
+
+###  Brand Performance (Table)
 - Total Sales  
 - Total Quantity  
 - Number of Transactions  
@@ -114,46 +113,37 @@ Top brands:
 - Vivo  
 - Xiaomi  
 
----
-
-### 📱 Total Sales by Mobile Model (Bar Chart)
+###  Total Sales by Mobile Model (Bar Chart)
 - Highlights **top-selling models**
 - Helps understand **product-level demand**
 
----
-
-### 📆 Total Sales by Day Name (Line Chart)
+###  Total Sales by Day Name (Line Chart)
 - Analyzes **weekday vs weekend sales**
 - Useful for marketing and promotional planning
 
----
 
-## 🧠 Key Insights
+
+##  Key Insights
 - Metro cities generate maximum revenue
 - Digital payments dominate transactions
 - Apple and Samsung lead in sales
 - High customer satisfaction overall
 - Sales show seasonal and weekday variations
 
----
-
-## 📌 Use Cases
+##  Use Cases
 - Business Intelligence & Reporting  
 - Sales & Marketing Strategy  
 - Academic Projects  
 - Power BI Portfolio  
 
----
-
-## 🚀 How to Use
+##  How to Use
 1. Download the `.pbix` file  
 2. Open in **Power BI Desktop**  
 3. Use slicers to explore insights  
 4. Customize or extend as needed  
 
----
 
-## 🧑‍💻 Author
+##  Author
 **Adarsh Gupta**  
 MCA Student 
 
